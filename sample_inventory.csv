@@ -1,0 +1,5 @@
+sku,product_name,current_stock,avg_daily_demand,lead_time_days,safety_stock_days,in_transit_stock
+SKU-001,滤芯,180,12,10,5,0
+SKU-002,密封圈,20,8,7,3,10
+SKU-003,展示架,45,0,14,7,0
+SKU-004,包装箱,500,10,8,4,0

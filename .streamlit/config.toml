@@ -1,0 +1,3 @@
+[server]
+# Match the validation limit in supplychain_copilot/file_io.py.
+maxUploadSize = 20
